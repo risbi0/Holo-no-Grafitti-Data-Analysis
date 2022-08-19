@@ -1,8 +1,11 @@
 #### Anchor Links
 
 [Episode Appearances](#episode-appearances)
+
 [Exclusions](#exclusions)
+
 [Debut Episodes](#debut-episodes)
+
 [Word Cloud Full List (Top 200)](#word-cloud-full-list-top-200)
 
 #### Episode Appearances
