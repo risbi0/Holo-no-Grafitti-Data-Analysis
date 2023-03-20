@@ -1,0 +1,9 @@
+google_api_python_client==2.81.0
+matplotlib==3.5.1
+MeCab==0.996.3
+nltk==3.5
+numpy==1.22.2
+pandas==1.4.0
+Pillow==9.4.0
+python-dotenv==1.0.0
+wordcloud==1.8.2.2
